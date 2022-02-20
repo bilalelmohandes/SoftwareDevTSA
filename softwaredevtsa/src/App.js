@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <NavigationBar />
-        <Jumbotron />
+        <Jumbotnhjron />
         <Layout>
           <Router>
             <Switch>
